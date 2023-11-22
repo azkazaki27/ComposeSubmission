@@ -1,4 +1,4 @@
-package com.azka.model
+package com.azka.composesubmission.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
@@ -9,5 +9,5 @@ data class MonoChar(
     val name: String,
     val photoUrl: String,
     val description: String,
-    val Age: String,
+    val seiyuu: String,
 ): Parcelable

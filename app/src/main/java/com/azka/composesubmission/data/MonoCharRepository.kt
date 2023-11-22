@@ -1,7 +1,7 @@
-package com.azka.data
+package com.azka.composesubmission.data
 
-import com.azka.model.MonoChar
-import com.azka.model.MonoCharData
+import com.azka.composesubmission.model.MonoChar
+import com.azka.composesubmission.model.MonoCharData
 
 class MonoCharRepository {
     fun getMonoChar(): List<MonoChar> {

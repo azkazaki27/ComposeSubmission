@@ -1,4 +1,4 @@
-package com.azka.navigation
+package com.azka.composesubmission.navigation
 
 import androidx.compose.ui.graphics.vector.ImageVector
 

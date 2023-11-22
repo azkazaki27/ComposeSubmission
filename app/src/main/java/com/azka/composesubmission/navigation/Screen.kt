@@ -1,4 +1,4 @@
-package com.azka.navigation
+package com.azka.composesubmission.navigation
 
 sealed class Screen(val route: String) {
     object Home: Screen("home")
